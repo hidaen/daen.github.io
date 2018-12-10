@@ -36,7 +36,7 @@ ssserver -c /etc/shadowsocks/config.json -d start
 
 ### client
 
-(shadowssocks client 地址)[https://shadowsocks.org/en/download/clients.html]
+[shadowssocks client 地址](https://shadowsocks.org/en/download/clients.html)
 
 
 ![shadowssocks client](/assets/img/tech/shadowsocks-client.png)
