@@ -1,6 +1,10 @@
 ---
 title: Why Blog
 layout: post
+category: misc
+tags: misc
+keywords: blog,index
+description: index
 ---
 
 ## 对博客的理解
