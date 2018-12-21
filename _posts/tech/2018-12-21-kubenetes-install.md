@@ -8,3 +8,5 @@ description: kubernetes 安装
 ---
 
 > Kubenetes 安装
+
+pass

@@ -29,3 +29,22 @@ consul 在每个节点上都只需要相同的单一二进制文件, 部署十�
 ### server
 
 负责 cluster 的复杂工作(选举, 状态维护, 转发请求等), 一般会部署基数个(3,5...)
+
+## 使用
+
+```
+# 单机运行测试(不建议线上使用, 我们这里启动一个测试)
+$ consul agent -dev
+
+# 启动后在前台运行, 启动一个新窗口可以执行相关命令或则通过 api 查看
+
+# 查看成员
+$ consul members
+
+# api
+$ curl 127.0.0.1:8500/v1/catalog/nodes
+
+# dig
+$ dig  @127.0.0.1 -p 8600 consul.service.consul
+
+```
