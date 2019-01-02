@@ -2,11 +2,11 @@
 title: daen 的博客
 email: hidaen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  daen 的博客
+  Daen 的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://hidaen.com # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: daen
+author: Daen
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
