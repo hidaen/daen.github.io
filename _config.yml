@@ -14,18 +14,17 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: hidaen 
-weibo: hidaen 
+twitter: hidaen
+weibo: hidaen
 github: hidaen
-instagram: hidaen 
-linkedin: hidaen 
+instagram: hidaen
+linkedin: hidaen
 
 # avatar and Favicon
 avatar: https://www.gravatar.com/avatar/0aed8e3129e97e1a07bd32134d93d38f
 favicon: https://www.gravatar.com/avatar/0aed8e3129e97e1a07bd32134d93d38f
 
 # disqus config
-disqus_username: hidaen
 disqus:
   shortname: hidaen
 
