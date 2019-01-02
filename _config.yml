@@ -25,8 +25,9 @@ avatar: https://www.gravatar.com/avatar/0aed8e3129e97e1a07bd32134d93d38f
 favicon: https://www.gravatar.com/avatar/0aed8e3129e97e1a07bd32134d93d38f
 
 # disqus config
+disqus_username: hidaen
 disqus:
-  shortname: daen
+  shortname: hidaen
 
 # google analytics config
 # ga:
