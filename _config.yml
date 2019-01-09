@@ -1,6 +1,7 @@
 # Site settings
 title: daen 的博客
 email: hidaen@gmail.com
+base_email: aGlkYWVuQGdtYWlsLmNvbQ==
 description: > # this means to ignore newlines until "baseurl:"
   Daen 的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
