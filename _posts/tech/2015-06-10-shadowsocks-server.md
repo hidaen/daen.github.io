@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: shadowsocks,翻墙,GFW
 description: shadowssocks server 搭建
+comments: true
 ---
 
 > 众所周知的原因, 就直接进入搭建环节哈.

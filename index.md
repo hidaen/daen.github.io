@@ -5,6 +5,7 @@ category: misc
 tags: misc
 keywords: blog,index
 description: index
+comments: true
 ---
 
 ## 关于我

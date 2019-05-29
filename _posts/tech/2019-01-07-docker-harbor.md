@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: Docker,Registry,仓库
 description: Docker 企业级 Registry 解决方案
+comments: true
 ---
 
 ## 简介

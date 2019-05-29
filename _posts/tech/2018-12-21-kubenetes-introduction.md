@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: docker, kubernetes, introduction
 description: kubernetes 简介
+comments: true
 ---
 
 > Kubenetes 简介, 可参考官方文档 [what is kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)

@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: docker,script,脚本
 description: Docker 常用脚本
+comments: true
 ---
 
 ### Docker clean

@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: kubernetes, consul, docker
 description: Kubernetes 上安装 consul 群集, 并同步更新 service
+comments: true
 ---
 
 ## Install

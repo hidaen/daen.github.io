@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: consul
 description: consul 简介
+comments: true
 ---
 
 > Consul 是 HashiCorp 公司推出的开源工具，用于实现分布式系统的服务发现与配置. 其使用 go 语言开发, 提供 web 界面, 跨平台支持等.

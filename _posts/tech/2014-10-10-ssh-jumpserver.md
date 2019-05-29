@@ -5,6 +5,7 @@ category: tech
 tags: tech
 keywords: expect,ssh,jumpserver,script,脚本
 description: expect ssh jumpserver
+comments: true
 ---
 
 在工作我们会经常遇到登陆跳板机的烦恼, 本文通过 expect 实现自动登陆跳板机, 以及通过跳板代理登陆目标机器
