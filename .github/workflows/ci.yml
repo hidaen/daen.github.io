@@ -1,0 +1,9 @@
+name: CI
+on: [push]
+
+jobs:
+  build:
+    name: test
+    runs-on: ubunt-latest
+    steps:
+      - run: echo "This is test CI"
